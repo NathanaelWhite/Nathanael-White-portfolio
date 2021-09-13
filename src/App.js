@@ -1,11 +1,15 @@
-import './App.css';
+import React from 'react';
+import ReactDOM from 'react-dom';
+import Button from '@material-ui/core/Button';
+import Nav from './components/Nav';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        hello world
-      </header>
+    <div>
+      <Nav />
+    <Button variant="contained" color="primary">
+      Hello World
+    </Button>
     </div>
   );
 }
