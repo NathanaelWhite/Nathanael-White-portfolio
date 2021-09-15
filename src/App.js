@@ -2,14 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import Button from '@material-ui/core/Button';
 import Nav from './components/Nav';
+import Header from './components/Header';
 
 function App() {
   return (
     <div>
       <Nav />
-    <Button variant="contained" color="primary">
-      Hello World
-    </Button>
+      <Header />
+    <p>content will go here</p>
     </div>
   );
 }
