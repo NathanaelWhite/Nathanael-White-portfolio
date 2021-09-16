@@ -2,9 +2,12 @@ import React from "react";
 
 function Header() {
     return (
-        <h1 className="hero-name">
-            Nathanael White
-        </h1>
+        <div>
+            <h1 className="hero-name">
+                Nathanael White
+            </h1>
+                <h3>Full Stack Developer</h3>
+        </div>
     )
 }
 
