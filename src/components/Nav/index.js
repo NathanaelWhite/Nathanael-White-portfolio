@@ -1,18 +1,21 @@
 import React from "react";
+import Nav from 'react-bootstrap/Nav';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-function Nav() {
+
+function Navigation() {
     const tabs = ["Home", "About", "Work", "Contact"];
     return (
-        <ul className="nav-tabs">
+        <>
+        <Nav className="justify-content-center" activeKey="/home">
             {tabs.map(tab => (
-                <li className="nav-tab" key={tab}>
-                    <a href="#" className="nav-link">
-                        {tab}
-                    </a>
-                </li>
+                <Nav.item>
+                    <Nav.link href="#" eventKey={tab}>{tab}</Nav.link>
+                </Nav.item> 
             ))}
-        </ul>
+        </Nav>
+        </>
     )
 }
 
-export default Nav;
+export default Navigation;
