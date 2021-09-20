@@ -1,14 +1,13 @@
 import React from "react";
+import "./style.css";
+import video from "./video.mp4";
 
 function Header() {
-    return (
-        <div>
-            <h1 className="hero-name">
-                Nathanael White
-            </h1>
-                <h3>Full Stack Developer</h3>
-        </div>
-    )
+  return (
+    <video autoPlay loop muted id="bg-video">
+      <source src={video} type="video/mp4" />
+    </video>
+  );
 }
 
 export default Header;
