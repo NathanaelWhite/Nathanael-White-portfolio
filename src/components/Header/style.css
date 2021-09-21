@@ -4,3 +4,7 @@
     height: 100vh;
     object-fit: fill;
   }
+
+.header-title {
+    position: absolute;
+}
