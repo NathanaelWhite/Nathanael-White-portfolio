@@ -3,7 +3,7 @@ import Project from "../Project";
 
 function Work() {
   return (
-    <div className="my-work">
+    <div className="my-work text-center text-light bg-dark p-3">
       <h1>My Work</h1>
       <Project />
     </div>
