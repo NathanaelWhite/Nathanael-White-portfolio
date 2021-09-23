@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-      <div class="card text-light bg-dark p-5">
+      <div class="card text-light bg-dark p-5 mt-0">
         <div class="row g-0">
           <div class="col-md-4">
             <img
