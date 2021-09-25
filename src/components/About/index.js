@@ -1,19 +1,20 @@
 import React from "react";
+import pic from "../../assets/images/about.jpg";
 
 function About() {
   return (
-      <div class="card text-light bg-dark p-5 mt-0">
+      <div class="card text-light bg-dark p-5 m-0 rounded-0 fs-3">
         <div class="row g-0">
           <div class="col-md-4">
             <img
-              src="http://placehold.jp/150x150.png"
-              alt="placeholder"
-              class="img-fluid rounded-circle mx-auto d-block"
+              src={pic}
+              alt="profile pic"
+              class="img-fluid rounded-circle mx-auto d-block about-img"
             />
           </div>
           <div class="col-md-8">
             <div class="card-body">
-              <h5 class="card-title">About Me</h5>
+              <h5 class="card-title fs-4">About Me:</h5>
               <p class="card-text">
                 I graduated from the UT Austin Coding Bootcamp in September of
                 2021. I've coached a multitude of fitness methods since 2014

@@ -36,7 +36,7 @@ function Project() {
   return (
       <div className="row">
     {sites.map((site) => (
-    <div class="card w-25 text-light bg-secondary p-1">
+    <div class="card col-2 text-light bg-secondary p-2 mx-auto">
       <img
         src={site.image}
         alt={site.name}
@@ -46,10 +46,10 @@ function Project() {
         <h5 class="card-title">{site.name}</h5>
       </div>
       <div class="card-body">
-        <a href={site.link} class="card-link">
+        <a href={site.link} class="card-link text-light">
           Live App
         </a>
-        <a href={site.GhLink} class="card-link">
+        <a href={site.GhLink} class="card-link text-light">
           Repo
         </a>
       </div>
