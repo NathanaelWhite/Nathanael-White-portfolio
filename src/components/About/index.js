@@ -3,7 +3,7 @@ import pic from "../../assets/images/about.jpg";
 
 function About() {
   return (
-      <div class="card text-light bg-dark p-5 m-0 rounded-0 fs-3">
+      <div class="card text-light bg-dark p-5 m-0 rounded-0 fs-3" id="about">
         <div class="row g-0">
           <div class="col-md-4">
             <img
