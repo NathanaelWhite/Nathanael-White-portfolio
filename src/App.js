@@ -7,7 +7,7 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <div className="body">
+    <div>
       <Navigation />
       <Header />
       <About />
