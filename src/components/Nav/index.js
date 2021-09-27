@@ -8,7 +8,7 @@ import Container from "react-bootstrap/Container"
 function Navigation() {
   const tabs = ["Home", "About", "Work", "Contact"];
   return (
-    <Navbar bg="dark" expand="lg" variant="dark" sticky="top">
+    <Navbar expand="lg" variant="dark" sticky="top" className="nav-style">
       <Container>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

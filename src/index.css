@@ -3,11 +3,35 @@
   padding: 0;
 }
 
+.nav-style {
+  background-color: rgba(19, 19, 19, 0.671);
+}
+
 .about-img {
   width: 50%;
+  border: 1px solid rgb(20, 0, 13);
+  box-shadow: 0 4px 8px 0 rgba(34, 5, 138, 0.2), 0 6px 20px 0 rgba(2, 8, 95, 0.19);
 }
 
 
-.bg-color {
-  background-color: #212738 !important;
+#about {
+  background-color: rgba(19, 19, 19, 0.671);
+}
+
+
+.bg-img-two {
+  background: url(./assets/images/anas-alshanti-feXpdV001o4-unsplash.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 70%;
+}
+
+.card-bg {
+  background-color: rgba(19, 19, 19, 0.671) !important;
+}
+
+.card-img {
+
 }

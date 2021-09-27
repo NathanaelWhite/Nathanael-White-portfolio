@@ -2,7 +2,7 @@ import React from "react";
 
 function Contact() {
   return (
-    <section className="bg-color text-light pb-3">
+    <section className="text-light p-3">
       <div className="overlay-mf"></div>
       <div className="container">
         <div className="row">
