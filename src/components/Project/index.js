@@ -40,7 +40,7 @@ function Project() {
   return (
       <div className="row">
     {sites.map((site) => (
-    <div class="card col-5 text-light p-4 m-5 card-bg mx-auto">
+    <div class="card col-5 text-light p-4 m-5 card-bg mx-auto img-glow">
       <img
         src={site.image}
         alt={site.name}
