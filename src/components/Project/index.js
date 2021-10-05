@@ -25,7 +25,7 @@ function Project() {
           image: require("../../assets/images/siteImgs/food-festival.PNG").default,
           link: "https://nathanaelwhite.github.io/food-festival/",
           GhLink: "https://github.com/NathanaelWhite/food-festival",
-          languages: "yikes"
+          languages: "Bootstrap, JQuery, popper.js, CSS"
         },
         {
           id: 4,
@@ -33,21 +33,21 @@ function Project() {
           image: require("../../assets/images/siteImgs/photo-port.PNG").default,
           link: "https://nathanaelwhite.github.io/photo-port/",
           GhLink: "https://github.com/NathanaelWhite/photo-port",
-          languages: "yikes2.0"
+          languages: "ReactJS, CSS"
         },
       ];
 
   return (
       <div className="row">
     {sites.map((site) => (
-    <div class="card col-5 text-light p-4 m-5 card-bg mx-auto img-glow">
+    <div class="card col-5 text-light p-0 pb-3 m-5 card-bg mx-auto img-glow">
       <img
         src={site.image}
         alt={site.name}
-        class="card-img-top h-50"
+        class="project-img"
       />
       <div class="card-body pb-1">
-        <h5 class="card-title">{site.name}</h5>
+        <h5 class="card-title project-title">{site.name}</h5>
         <p class="card-text mt-3">{site.languages}</p>
       </div>
       <div class="card-body p-0">

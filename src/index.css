@@ -1,6 +1,8 @@
 * {
   margin: 0;
   padding: 0;
+  font-family: "Bebas Neue", cursive;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .nav-style {
@@ -13,11 +15,9 @@
   box-shadow: 0 4px 8px 0 rgb(72, 170, 187), 0 6px 20px 0 rgb(55, 144, 167);
 }
 
-
 #about {
   background-color: rgba(19, 19, 19, 0.671);
 }
-
 
 .bg-img-two {
   background: url(./assets/images/port-bg.jpg);
@@ -35,3 +35,22 @@
 .img-glow {
   box-shadow: 0 4px 8px 0 rgb(72, 170, 187), 0 6px 20px 0 rgb(55, 144, 167);
 }
+
+.my-work {
+  font-size: 50px;
+  background-color: rgba(19, 19, 19, 0.671) !important;
+  width: 25%;
+  margin: auto;
+  box-shadow: 0 4px 8px 0 rgb(72, 170, 187), 0 6px 20px 0 rgb(55, 144, 167);
+}
+
+.project-img {
+  width: 100%;
+  margin: auto;
+  height: 60%;
+}
+
+.project-title {
+  font-size: 30px;
+}
+

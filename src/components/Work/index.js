@@ -3,8 +3,8 @@ import Project from "../Project";
 
 function Work() {
   return (
-    <div className="my-work text-center text-light p-5 pt-2" id="work">
-      <h1 className="pb-3">My Work</h1>
+    <div className="text-center text-light p-5 m-3" id="work">
+      <h1 className="my-work rounded">My Work</h1>
       <Project />
     </div>
   );
