@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nathanael-White-portfolio/static/css/main.7722c78d.chunk.css",
+    "main.css": "/Nathanael-White-portfolio/static/css/main.2c4fe72a.chunk.css",
     "main.js": "/Nathanael-White-portfolio/static/js/main.4eb40bbe.chunk.js",
     "main.js.map": "/Nathanael-White-portfolio/static/js/main.4eb40bbe.chunk.js.map",
     "runtime-main.js": "/Nathanael-White-portfolio/static/js/runtime-main.378bc2c1.js",
@@ -12,7 +12,7 @@
     "static/js/3.cf51d634.chunk.js.map": "/Nathanael-White-portfolio/static/js/3.cf51d634.chunk.js.map",
     "index.html": "/Nathanael-White-portfolio/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Nathanael-White-portfolio/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.7722c78d.chunk.css.map": "/Nathanael-White-portfolio/static/css/main.7722c78d.chunk.css.map",
+    "static/css/main.2c4fe72a.chunk.css.map": "/Nathanael-White-portfolio/static/css/main.2c4fe72a.chunk.css.map",
     "static/js/2.ee32c947.chunk.js.LICENSE.txt": "/Nathanael-White-portfolio/static/js/2.ee32c947.chunk.js.LICENSE.txt",
     "static/media/about-img2.dca65135.jpg": "/Nathanael-White-portfolio/static/media/about-img2.dca65135.jpg",
     "static/media/devmeup.PNG": "/Nathanael-White-portfolio/static/media/devmeup.87329cba.PNG",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.378bc2c1.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.ee32c947.chunk.js",
-    "static/css/main.7722c78d.chunk.css",
+    "static/css/main.2c4fe72a.chunk.css",
     "static/js/main.4eb40bbe.chunk.js"
   ]
 }
