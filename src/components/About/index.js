@@ -9,10 +9,10 @@ function About() {
             <img
               src={pic}
               alt="profile pic"
-              class="img-fluid rounded-circle mx-auto d-block about-img"
+              class="img-fluid rounded-circle d-block about-img"
             />
           </div>
-          <div class="col-md-8">
+          <div class="col-md-8 p-3">
             <div class="card-body">
               <h5 class="card-title fs-4">About Me:</h5>
               <p class="card-text">

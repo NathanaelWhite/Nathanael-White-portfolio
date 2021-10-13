@@ -41,19 +41,20 @@ function Project() {
       <div className="row">
     {sites.map((site) => (
     <div class="card col-5 text-light p-0 pb-3 m-5 card-bg mx-auto img-glow">
+      <a href={site.link} class="card-link text-light">
       <img
         src={site.image}
         alt={site.name}
         class="project-img"
       />
+      </a>
       <div class="card-body pb-1">
         <h5 class="card-title project-title">{site.name}</h5>
         <p class="card-text mt-3">{site.languages}</p>
       </div>
       <div class="card-body p-0">
-        <a href={site.link} class="card-link text-light">
-          Live App
-        </a>
+        {/* <a href={site.link} class="card-link text-light" /> */}
+          
         <a href={site.GhLink} class="card-link text-light">
           Repo
         </a>

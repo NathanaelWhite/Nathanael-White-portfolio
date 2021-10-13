@@ -10,7 +10,7 @@
 }
 
 .about-img {
-  width: 50%;
+  width: auto;
   border: 1px solid rgb(20, 0, 13);
   box-shadow: 0 4px 8px 0 rgb(72, 170, 187), 0 6px 20px 0 rgb(55, 144, 167);
 }
@@ -47,7 +47,6 @@
 .project-img {
   width: 100%;
   margin: auto;
-  height: 50%;
 }
 
 .project-title {
