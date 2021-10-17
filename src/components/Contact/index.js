@@ -16,9 +16,6 @@ function Contact() {
                     </div>
                     <div>
                       <form
-                        action="https://formspree.io/xdoeonlo"
-                        method="POST"
-                        className="contactForm"
                       >
                         {/* <div id="sendmessage">
                           Your message has been sent. Thank you!

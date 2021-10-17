@@ -38,7 +38,7 @@ function Project() {
       ];
 
   return (
-      <div className="row">
+      <div className="row slide-in">
     {sites.map((site) => (
     <div class="card col-5 text-light p-0 pb-3 m-5 card-bg mx-auto img-glow">
       <a href={site.link} class="card-link text-light">
@@ -56,7 +56,7 @@ function Project() {
         {/* <a href={site.link} class="card-link text-light" /> */}
           
         <a href={site.GhLink} class="card-link text-light">
-          Repo
+          Source code
         </a>
       </div>
     </div>
