@@ -53,4 +53,11 @@
   font-size: 30px;
 }
 
+.link-color {
+  color: rgba(0, 183, 255, 0.664);
+}
+
+.link-color:hover {
+  color: rgba(133, 114, 216, 0.842);
+}
 
