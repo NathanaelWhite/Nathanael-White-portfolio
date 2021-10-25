@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Nathanael-White-portfolio/static/css/main.549d007b.chunk.css",
-    "main.js": "/Nathanael-White-portfolio/static/js/main.19bf56b3.chunk.js",
-    "main.js.map": "/Nathanael-White-portfolio/static/js/main.19bf56b3.chunk.js.map",
+    "main.css": "/Nathanael-White-portfolio/static/css/main.b3d3018d.chunk.css",
+    "main.js": "/Nathanael-White-portfolio/static/js/main.cc66bdc4.chunk.js",
+    "main.js.map": "/Nathanael-White-portfolio/static/js/main.cc66bdc4.chunk.js.map",
     "runtime-main.js": "/Nathanael-White-portfolio/static/js/runtime-main.378bc2c1.js",
     "runtime-main.js.map": "/Nathanael-White-portfolio/static/js/runtime-main.378bc2c1.js.map",
     "static/css/2.818011ed.chunk.css": "/Nathanael-White-portfolio/static/css/2.818011ed.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.cf51d634.chunk.js.map": "/Nathanael-White-portfolio/static/js/3.cf51d634.chunk.js.map",
     "index.html": "/Nathanael-White-portfolio/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Nathanael-White-portfolio/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.549d007b.chunk.css.map": "/Nathanael-White-portfolio/static/css/main.549d007b.chunk.css.map",
+    "static/css/main.b3d3018d.chunk.css.map": "/Nathanael-White-portfolio/static/css/main.b3d3018d.chunk.css.map",
     "static/js/2.ee32c947.chunk.js.LICENSE.txt": "/Nathanael-White-portfolio/static/js/2.ee32c947.chunk.js.LICENSE.txt",
     "static/media/about-img2.dca65135.jpg": "/Nathanael-White-portfolio/static/media/about-img2.dca65135.jpg",
     "static/media/devmeup.PNG": "/Nathanael-White-portfolio/static/media/devmeup.87329cba.PNG",
@@ -20,13 +20,14 @@
     "static/media/jot-it.PNG": "/Nathanael-White-portfolio/static/media/jot-it.c82c8b37.PNG",
     "static/media/photo-port.PNG": "/Nathanael-White-portfolio/static/media/photo-port.8e5bf01f.PNG",
     "static/media/index.css": "/Nathanael-White-portfolio/static/media/port-bg.e293b939.jpg",
+    "static/media/resume.abba4341.pdf": "/Nathanael-White-portfolio/static/media/resume.abba4341.pdf",
     "static/media/video.e44361e5.mp4": "/Nathanael-White-portfolio/static/media/video.e44361e5.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.378bc2c1.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.ee32c947.chunk.js",
-    "static/css/main.549d007b.chunk.css",
-    "static/js/main.19bf56b3.chunk.js"
+    "static/css/main.b3d3018d.chunk.css",
+    "static/js/main.cc66bdc4.chunk.js"
   ]
 }
