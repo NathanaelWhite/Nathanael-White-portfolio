@@ -16,11 +16,7 @@ function About() {
             <div class="card-body">
               <h5 class="card-title fs-4">About Me:</h5>
               <p class="card-text">
-                I graduated from the UT Austin Coding Bootcamp in September of
-                2021. I've coached a multitude of fitness methods since 2014
-                (gymnastics, CrossFit, strength & conditioning). I worked as a
-                therapy practitioner with Synergy Release Method from 2016-2021
-                when I found a passion for web development.
+              Reliable and focused Full-stack Developer. Graduate of University of Texas Coding Bootcamp. Proficient in React, NodeJS, MongoDB, JavaScript, HTML5. Mindset of athlete/competitor, and coach building on my commitment to excellence, perseverance, and strong work ethic. Skilled communicator and time manager with eight years of leadership experience in positions of authority and responsibility. Currently seeking an intriguing opportunity where I can utilize my creativity, attention to detail, and analytical mind to problem solve and help teams optimize their work.
               </p>
             </div>
           </div>
