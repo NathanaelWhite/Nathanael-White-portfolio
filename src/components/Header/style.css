@@ -1,0 +1,10 @@
+#bg-video {
+    width: 100%;
+    z-index: -1;
+    object-fit: fill;
+    border-bottom: 1px solid rgb(0, 0, 0);
+  }
+
+.header-title {
+    position: absolute;
+}

@@ -1,18 +1,27 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import Navbar from 'react-bootstrap/Navbar';
+import Nav from 'react-bootstrap/Nav';
+import Container from "react-bootstrap/Container"
 
-function Nav() {
-    const tabs = ["Home", "About", "Work", "Contact"];
-    return (
-        <ul className="nav-tabs">
-            {tabs.map(tab => (
-                <li className="nav-tab" key={tab}>
-                    <a href="#" className="nav-link">
-                        {tab}
-                    </a>
-                </li>
-            ))}
-        </ul>
-    )
+
+function Navigation() {
+  const tabs = ["Home", "About", "Work", "Contact"];
+  return (
+    <Navbar expand="lg" variant="dark" sticky="top" className="nav-style">
+      <Container>
+        <Navbar.Toggle aria-controls="basic-navbar-nav" />
+        <Navbar.Collapse id="basic-navbar-nav">
+          <Nav className="m-auto">
+            <Nav.Link href="#home">Home</Nav.Link>
+            <Nav.Link href="#about">About</Nav.Link>
+            <Nav.Link href="#work">Work</Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
+          </Nav>
+        </Navbar.Collapse>
+      </Container>
+    </Navbar>
+  );
 }
 
-export default Nav;
+export default Navigation;
