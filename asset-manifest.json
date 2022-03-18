@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Nathanael-White-portfolio/static/css/main.b3d3018d.chunk.css",
-    "main.js": "/Nathanael-White-portfolio/static/js/main.4f9b292d.chunk.js",
-    "main.js.map": "/Nathanael-White-portfolio/static/js/main.4f9b292d.chunk.js.map",
+    "main.js": "/Nathanael-White-portfolio/static/js/main.33495699.chunk.js",
+    "main.js.map": "/Nathanael-White-portfolio/static/js/main.33495699.chunk.js.map",
     "runtime-main.js": "/Nathanael-White-portfolio/static/js/runtime-main.378bc2c1.js",
     "runtime-main.js.map": "/Nathanael-White-portfolio/static/js/runtime-main.378bc2c1.js.map",
     "static/css/2.818011ed.chunk.css": "/Nathanael-White-portfolio/static/css/2.818011ed.chunk.css",
@@ -20,7 +20,7 @@
     "static/media/jot-it.PNG": "/Nathanael-White-portfolio/static/media/jot-it.c82c8b37.PNG",
     "static/media/photo-port.PNG": "/Nathanael-White-portfolio/static/media/photo-port.8e5bf01f.PNG",
     "static/media/index.css": "/Nathanael-White-portfolio/static/media/port-bg.e293b939.jpg",
-    "static/media/resume.abba4341.pdf": "/Nathanael-White-portfolio/static/media/resume.abba4341.pdf",
+    "static/media/resume.f175dfa7.pdf": "/Nathanael-White-portfolio/static/media/resume.f175dfa7.pdf",
     "static/media/video.e44361e5.mp4": "/Nathanael-White-portfolio/static/media/video.e44361e5.mp4"
   },
   "entrypoints": [
@@ -28,6 +28,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.ee32c947.chunk.js",
     "static/css/main.b3d3018d.chunk.css",
-    "static/js/main.4f9b292d.chunk.js"
+    "static/js/main.33495699.chunk.js"
   ]
 }
